@@ -1,6 +1,10 @@
 import styled from 'styled-components';
 
 const PortfolioCard = styled.section`
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+font-family: 'Source Sans Pro', sans-serif;
+
   display: inline-block;
   position: relative;
   float: left;
@@ -48,6 +52,7 @@ const PortfolioCard = styled.section`
     margin: auto;
     width: 100%;
     height: auto;
+    background: #000;
     transition: all .4s ease 0s;
   }
 

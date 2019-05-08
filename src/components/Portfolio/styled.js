@@ -18,6 +18,17 @@ export const Wrapper = styled(SimpleWrapper)`
 `;
 
 export const PortfolioDescription = styled.section`
+  @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: lighter;
+  line-height: 20px;
+  character-spacing: 1px;
+
+  h1 {
+    color: #fdb247;
+  }
+
   float: left;
   padding: 0 0 0 36px;
   width: 50%;

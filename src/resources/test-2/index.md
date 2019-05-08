@@ -1,6 +1,6 @@
 ---
 type: "portfolio"
-title: "Gatsby Advanced Blog"
+title: "Group Project"
 date: "2018-01-02T00:00:00.000Z"
 path: "/portfolios/portfolio-2/"
 images: [
@@ -9,15 +9,20 @@ images: [
 ]
 ---
 
-# Gatsby Advanced Blog
+# Group Project
 
 ## What I did
-- Develop Gatsby Advanced Blog
+- group project details.......
 
 ## Libraries / Tools
-- ReactJS
+- React
+- JavaScript
+- Node
+- HTML/CSS
 - Redux
-- Redux saga
-- ...
+- Express
+- PostgreSQL
+- Styled Components
 
-[Go to Web Site →](https://github.com/wonism/gatsby-advanced-blog)
+
+[Go to Web Site →]()

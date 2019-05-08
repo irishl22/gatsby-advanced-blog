@@ -1,23 +1,24 @@
 ---
 type: "portfolio"
-title: "Gatsby Advanced Blog"
+title: "Roster Manager Project"
 date: "2018-01-03T00:00:00.000Z"
 path: "/portfolios/portfolio-3/"
 images: [
-  "test-3/5.png",
-  "test-3/6.png",
+  "test-3/5.png"
 ]
 ---
 
-# Gatsby Advanced Blog
+# Track Roster Manager
 
 ## What I did
-- Develop Gatsby Advanced Blog
+- Created a solution for Track & Field coaches to keep track of their athletes in competition. Allows for the recording of statistics and
+personal information of athletes in order to maintain better awareness of performances. This application was built after just 4 weeks of instruction
+at DevMountain.
 
 ## Libraries / Tools
-- ReactJS
-- Redux
-- Redux saga
-- ...
+- React
+- JavaScript
+- Node
+- Express
+- HTML/CSS
 
-[Go to Web Site →](https://github.com/wonism/gatsby-advanced-blog)

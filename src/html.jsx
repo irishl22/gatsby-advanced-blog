@@ -15,7 +15,7 @@ export default class HTML extends Component {
     } = this.props;
 
     return (
-      <html {...htmlAttributes} lang="ko">
+      <html {...htmlAttributes} lang="eng">
         <head>
           {headComponents}
           <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />

@@ -3,13 +3,14 @@ import { FooterWrapper } from './styled';
 
 const Footer = () => (
   <FooterWrapper>
-    Theme by @
+    Lauren Irish
+    {' '}
     <a
       href="https://github.com/wonism/gatsby-advanced-blog"
       target="_blank"
       rel="noreferrer noopener"
     >
-      wonism
+      2019
     </a>
   </FooterWrapper>
 );

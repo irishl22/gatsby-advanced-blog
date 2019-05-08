@@ -2,6 +2,9 @@ import styled from 'styled-components';
 import Clearfix from '~/components/Common/Clearfix';
 
 export const Wrapper = styled.section`
+  @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+  font-family: 'Source Sans Pro', sans-serif;
   padding: 100px 0 0;
   @media (max-width: 414px) {
     padding: 70px 16px 0;
@@ -18,6 +21,7 @@ export const Wrapper = styled.section`
 `;
 
 export const BasicInformation = styled.section`
+  
   text-align: center;
   font-size: 16px;
 
@@ -36,6 +40,9 @@ export const BasicInformation = styled.section`
 `;
 
 export const SocialInformation = styled.section`
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px;
   text-align: center;
 
@@ -45,20 +52,24 @@ export const SocialInformation = styled.section`
 `;
 
 export const MDInformation = styled.section`
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 16px;
+  line-height: 20px;
 
   h2 {
     font-size: 1.5em;
     margin: .67em 0;
   }
-
+  
   ul {
     margin: 16px 0 0;
     padding: 0 0 0 20px;
     line-height: 2em;
     list-style: disc;
   }
-
+  
   li ul {
     margin: 0 0 16px;;
     padding: 0 0 0 20px;
@@ -66,7 +77,7 @@ export const MDInformation = styled.section`
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
   }
 `;
 

@@ -1,6 +1,6 @@
 ---
 type: "portfolio"
-title: "Gatsby Advanced Blog"
+title: "Exercise Manager Project"
 date: "2018-01-04:00:00.000Z"
 path: "/portfolios/portfolio-4/"
 images: [
@@ -10,15 +10,20 @@ images: [
 ]
 ---
 
-# Gatsby Advanced Blog
+# Trainer Port
 
 ## What I did
-- Develop Gatsby Advanced Blog
+- Created a solution for Gym Owners and Personal Trainers to be able to create and share workouts with active members based on a database of used exercises. This app provides an easy way to keep track of workouts in order to keep members engaged and provide information on those workouts for new and current members.
 
 ## Libraries / Tools
-- ReactJS
+- React
+- JavaScript
+- Node
+- HTML/CSS
 - Redux
-- Redux saga
-- ...
+- Express
+- PostgreSQL
+- Styled Components
+- Twilio
 
-[Go to Web Site →](https://github.com/wonism/gatsby-advanced-blog)
+[Go to Web Site →](http://165.22.145.228:6140/#/)
